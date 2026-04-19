@@ -15,5 +15,5 @@ A course for learning the language 🐍<b>Python!</b>🐍
   + 👻An Omen Main
 <p align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNubGdwdGhoemN2cmhreWE3eWw3cHo2ajg5YmF3YzZvdWdnOThxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XtINMCqoEJrNAzBh0v/giphy.gif" />
-  <img scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN0YmplOGxlMGd4ZWFlaWhnaGVpZnZrazFvdHFoY2NnMHl1emVpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN0YmplOGxlMGd4ZWFlaWhnaGVpZnZrazFvdHFoY2NnMHl1emVpayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" />
 </p>
